@@ -1,0 +1,46 @@
+h2.imperio {
+    background-color:red;
+}
+li.imperio{
+    background-color:red;
+}
+h2.rebeldes {
+    background-color:blue;
+}
+li.rebeldes{
+    background-color:blue;
+}
+h3.rebeldes{
+    background-color:blue;
+}
+#DarthVader {
+    font-size:50px;
+}
+#LukeSkywalker{
+    font-style: italic;
+}
+li.soldados{
+    background-color:red;
+    border: solid;
+    border-style: dashed;
+    border-color: black;
+    letter-spacing: 5px;
+}
+li.apoyo{
+    text-align: center;
+}
+li.Naves{
+    text-transform: uppercase;
+}
+h3.Naves{
+    text-transform: uppercase;
+}
+div.Droides{
+   text-align:center; 
+}
+div.imperio{
+    background-color: red;
+}
+div.rebeldes{
+    background-color:blue;
+}
